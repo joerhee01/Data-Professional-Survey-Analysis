@@ -51,5 +51,5 @@ This study aims to analyze various aspects of the data profession, including mar
 # Dashboard: #
 ![image](https://user-images.githubusercontent.com/28738970/233547152-4f3a1913-b8f9-40b6-a3e5-11b3035a48ea.png)
 
-# Disclaimer: #
+#### Disclaimer: #
 *The data provided may not fully reflect the real trends due to various factors like differences in salary rates among countries, the demographics of the viewers of Alex the Analyst, a restricted number of participants, and the precision of their answers. To gain more accurate and precise insights, it may be necessary to gather more data.*
