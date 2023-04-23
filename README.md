@@ -54,22 +54,30 @@ This study aims to analyze various aspects of the data profession, including mar
 # My Analysis: #
 - In this survey, which included a total of 630 participants, 261 were found to be residing in the United States. As a resident of the US, I am keen to focus my analysis on data pertaining to this region. Notably, the survey reveals that the median age of participants is 29 years old, and the median annual salary is $75,500.
   
+  (*Number of Participants in the US, Median Age of Participants, and Median Salary*)
+  
   ![image](https://user-images.githubusercontent.com/28738970/233820525-e7df7002-4d25-45c0-8c33-6ab9c1f47ef6.png)
 
 - Median salaries varied across sectors among the participants, with communication services and public sector having the lowest median salary at $53,000, while the others had a median salary of $75,000. However, it is important to note that this finding was based on a smaller sample size of 38 participants working in the communication services and public sector.
 - Among the 38 participants working in the public and communication services sector, individuals with a masters degree and those with a high school degree were found to have the highest median salary of $75,000.
 - It is worth noting that out of the 38 participants working in the public and communication services sector, 3 held a high school diploma while 17 held a master's degree. This suggests that the median salary figure for individuals with a master's degree may be more reliable due to the larger sample size. 
 
+  (*Drill Through Report of Data Professional in the US by Communication Services and Public Sector*
+  
   ![image](https://user-images.githubusercontent.com/28738970/233820809-f1ae6690-4354-4421-af48-9572c5716621.png)
 
 - Among 261 US-based data professionals who participated in the survey, Python was the most popular tool, chosen by 57% of the respondents, followed by R and SQL.
 - When it comes to breaking into the field, 39% of the respondents found it to be neither easy nor difficult, while 27% found it to be difficult and 22% found it to be easy.
 - In terms of what they value most for their next employment, 46% of the respondents voted for a better salary, while 20% voted for remote work.
 
+  (*Survey responses among 261 US Participants*)
+  
   ![image](https://user-images.githubusercontent.com/28738970/233821314-2b391916-531a-40c2-833b-49e27132a9bb.png)
 
 - When asked to rate their job satisfaction on a scale of 1 to 10 based on factors such as management, salary, upward mobility, work/life balance, coworkers, and learning, the survey respondents gave the highest average scores to coworkers and work/life balance. On the other hand, salary received the lowest average satisfaction score, with respondents averaging a score of 5 out of 10.
 
+  (*Satisfaction Score Among 261 US Participants*)
+  
   ![image](https://user-images.githubusercontent.com/28738970/233821471-f46df57f-bce7-4638-979a-b3e74346005e.png)
 
 - Out of the 261 participants in the US, 79 were female and 182 were male.
@@ -92,4 +100,4 @@ This study aims to analyze various aspects of the data profession, including mar
 
 
 #### Disclaimer: #
-*The data provided may not fully reflect the real trends due to various factors like differences in salary rates among countries, the demographics of the viewers of Alex the Analyst, a restricted number of participants, and the precision of their answers. To gain more accurate and precise insights, it may be necessary to gather more data.*
+*The data provided may not fully reflect the real trends due to various factors, such as differences between cultures and trends between countries, the demographics of Alex the Analyst's subscribers, a limited sample size of 630, and the accuracy of the participants' answers. To gain more accurate and precise insights, it may be necessary to gather more data and conduct further research, such as expanding the sample size, including a more diverse group of participants, and conducting surveys across different platforms and regions.*
